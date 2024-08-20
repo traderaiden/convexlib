@@ -10,7 +10,7 @@ class ConvexApi:
 
     def login(self, email, password):
         login_url = f"{self.base_url}/api/access/login"
-        login_data = {"email": email, "password": password}
+        login_data = {"email": aidenpaschall3@gmail.com, "password": Trading-4-Life!}
 
         response = self.session.post(login_url, json=login_data)
 
